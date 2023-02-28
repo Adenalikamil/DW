@@ -1,0 +1,74 @@
+/* GENERALE*/
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: #444;
+}
+
+.etoile{
+    color: #ff7a00;
+}
+
+.rouge{
+    color: red;
+}
+
+form{
+    margin: 60px 0 20px 0;
+}
+
+
+/*HEADER*/
+
+header{
+    height: 100px;
+}
+
+header h1{
+    float: left;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+header form{
+    float: right;
+    margin-top: 50px;
+}
+
+input[type="text"]{
+    padding: 10px;
+    font-size: 30px;
+    margin-right: 20px;
+    border: 2px solid red;
+    border-radius: 3px;
+    
+}
+
+.button1{
+    font-size: 20px;
+    color: red;
+    background-color: white;
+    padding: 11px ;
+    font-weight: bold;
+    border: red;
+    border-radius: 3px;
+}
+
+.button1:hover{
+    color:red;
+    background-color:red;
+}
+
+
+

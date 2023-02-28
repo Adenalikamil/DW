@@ -1,0 +1,44 @@
+p
+{
+color: red;
+font-size: 30px;
+font-family: Arial,Arial, Helvetica, serif;
+font-weight: bold;
+
+/* commentaire pour le css ::: les Polices :::
+serif
+sans-serif
+cursife
+*/
+}
+
+h1
+{
+color: royalblue;
+font-size: 20px;
+}
+
+/*div div p {
+    color: salmon;
+    font-size: 25px;
+}
+
+* 
+{
+    border: 2px solid blue;
+
+}*/
+
+
+.special {
+    color: chartreuse;
+}
+
+#unique{
+    color: rgb(82, 67, 7);
+    font-size: 80px;
+}
+
+a:link { color: black;}
+a:hover {color: darkkhaki;}
+a:visited{color: darkred;}

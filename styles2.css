@@ -1,0 +1,39 @@
+.left {
+    width: 280px;
+    height: 1450px;
+    background-color: brown;
+    float: left;
+}
+
+.right {
+    width: 150px;
+    height: 250px;
+    background-color:blue;
+    float: right;
+    /*position: relative;
+    top: 100px;
+    left: 300px;*/
+    /*position: fixel;
+    bottom: 0px;
+    right: 0px;*/
+    position: absolute;
+    top: 180px;
+    left: 200px;
+}
+
+
+#container {
+    margin-top: 208px;
+    margin-left: 208px;
+}
+
+/*header{
+    height: 100px;
+    background-color: chartreuse;
+}
+
+footer{
+    height: 70px;
+    background-color: cyan;
+    clear: left;
+}*/
